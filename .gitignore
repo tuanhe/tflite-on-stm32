@@ -52,6 +52,10 @@
 *._II
 *.SCR
 
+DebugConfig/
+RTE/
+keil_project.uvoptx
+
 # Debugger Files
 *.INI
 
