@@ -52,9 +52,11 @@
 *._II
 *.SCR
 
-DebugConfig/
-RTE/
-keil_project.uvoptx
+**/DebugConfig/
+**/RTE/
+**/keil_project.uvoptx
+**/STM32746G-Discovery
+
 
 # Debugger Files
 *.INI
